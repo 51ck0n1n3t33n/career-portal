@@ -49,6 +49,7 @@
     "@schematics/angular": "^10.2.3",
     "@types/express": "^4.17.13",
     "angular2-text-mask": "^9.0.0",
+    "axios": "^1.7.7",
     "body-parser": "^1.18.2",
     "bullhorn-icons": "^1.17.0",
     "classlist.js": "^1.1.20150312",
